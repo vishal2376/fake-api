@@ -1,5 +1,4 @@
-{
-  "git_info": [
+{ [
     {
       "name": "Initialize Repository",
       "command": "git init",
