@@ -1,4 +1,4 @@
-{ [
+[
     {
       "name": "Initialize Repository",
       "command": "git init",
@@ -203,4 +203,3 @@
       "example": "git remote show origin"
     }
   ]
-}
